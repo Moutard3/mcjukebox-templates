@@ -13,7 +13,7 @@
 /* Sound Effects Volume */
 
 .box.controls div:last-of-type {
-	font-size: 0px;
+    font-size: 0px;
 }
 
 .box.controls div:last-of-type::before {
