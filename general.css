@@ -1,0 +1,46 @@
+/********************************************************/
+/*                 MCJukeBox Custom CSS                 */
+/* @url https://github.com/Moutard3/mcjukebox-templates */
+/*               Feel free to use & edit!               */
+/* ==================================================== */
+/* This stylesheet contains mixed styles. Please see    */
+/* templates for specifics designs.                     */
+/********************************************************/
+
+body {
+	/* Background image */
+    background: url("https://github.com/Moutard3/mcjukebox-templates/blob/master/background_image.png?raw=true");
+    background-size: cover;
+}
+
+.header {
+	/* Header color */
+	background-color: #272727;
+}
+
+.box {
+	/* Boxes color */
+    background-color: #272727;
+    /* Boxes shadow color & size */
+    box-shadow: 2px 3px 7px #000000;
+}
+
+#skull {
+	/* Skull border size */
+	border-width: 3px;
+	/* Skull border color */ 
+    border-color: #3e3a3a;
+}
+
+.branding {
+    /* Ping shadow */
+    text-shadow: 0px 0px 3px black;
+    /* Place Ping on the bottom left corner */
+    position: absolute;
+    bottom: 0;
+}
+
+#ping-meter {
+	/* 'Average Ping:' color */
+	color: white;
+}

@@ -1,0 +1,23 @@
+/* Music Volume */
+
+.box.controls div:first-of-type {
+    font-size: 0px;
+}
+
+.box.controls div:first-of-type::before {
+    content: "Music Volume";
+    color: white;
+    font-size: 14px;
+}
+
+/* Sound Effects Volume */
+
+.box.controls div:last-of-type {
+	font-size: 0px;
+}
+
+.box.controls div:last-of-type::before {
+    content: "Sound Effects Volume";
+    color: white;
+    font-size: 14px;
+}

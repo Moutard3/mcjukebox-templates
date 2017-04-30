@@ -1,0 +1,14 @@
+#fx {
+    display: none;
+}
+
+.box.controls div:last-of-type {
+    font-size: 0px;
+}
+
+.box.controls div:last-of-type::before {
+    content:"We're not using Sound Effect... but it doesn't mean we're not cool :D Join us: play.minecraft.srv";
+    color: white;
+    font-weight: lighter;
+    font-size: 14px;
+}

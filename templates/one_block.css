@@ -1,0 +1,30 @@
+body {
+    height: calc(100vh - 50px);
+    background: url("https://github.com/Moutard3/mcjukebox-templates/blob/master/background_image.png?raw=true");
+    background-size: cover;
+}
+
+.header {
+    width: 250px;
+    margin: 0 auto;
+    padding: 25px 25px 0 25px;
+    margin-top: 50px;
+}
+
+.box {
+    margin-top: 0;
+    margin-bottom:0;
+    border-radius: 0;
+    box-shadow:none;
+}
+
+.branding {
+    background-color:#F44336;
+    width: 250px;
+    margin: 0 auto;
+    padding: 25px;
+}
+
+#ping-meter {
+    color: white;
+}
