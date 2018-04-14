@@ -13,7 +13,7 @@ Feel free to use them as you want, but remember that editing them will make your
 * **[general.css](./general.css)**: Basic css. It doesn't change the page a lot, only some colors & background image.
 * **[translation.css](./translation.css)**: Some styles that allow you to translate _Music Volume_ & _Sound Effects Volume_ (Actually you can put anything instead)
 * **[templates/](./templates/)**: Templates that change the look of the page.
-* **[examples/](./examples/)**: Images of css renders. 
+* **[examples/](./examples/)**: Images of what the template looks like. 
 
 ## List of templates ##
 * **[one_block.css](./templates/one_block.css)**: Has everything in one block.
