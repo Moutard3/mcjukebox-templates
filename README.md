@@ -18,3 +18,4 @@ Feel free to use them as you want, but remember that editing them will make your
 ## List of templates ##
 * **[one_block.css](./templates/one_block.css)**: Has everything in one block.
 * **[only_music.css](./templates/only_music.css)**: If you're not using _Sound Effect_ you may replace it with a text.
+* **[logo_dark.css](./templates/logo_dark.css)**: No box, black overlay on background plus add a logo.
