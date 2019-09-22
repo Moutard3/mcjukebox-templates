@@ -21,3 +21,19 @@
     color: white;
     font-size: 14px;
 }
+
+/* Average Ping */
+
+#ping-meter {
+    font-size: 0px;
+}
+
+#ping-rating {
+    font-size: 14px;
+}
+
+#ping-meter::before {
+    content: "Average Ping: ";
+    color: white;
+    font-size: 14px;
+}
