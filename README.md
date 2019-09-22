@@ -11,7 +11,7 @@ Feel free to use them as you want, but remember that editing them will make your
 
 ## What does this repo contains? ##
 * **[general.css](./general.css)**: Basic css. It doesn't change the page a lot, only some colors & background image.
-* **[translation.css](./translation.css)**: Some styles that allow you to translate _Music Volume_ & _Sound Effects Volume_ (Actually you can put anything instead)
+* **[translation.css](./translation.css)**: Some styles that allow you to translate _Music Volume_, _Sound Effects Volume_ & _Average Ping_ (Actually you can put anything instead)
 * **[templates/](./templates/)**: Templates that change the look of the page.
 * **[examples/](./examples/)**: Images of what the template looks like. 
 
